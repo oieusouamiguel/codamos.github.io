@@ -58,6 +58,16 @@
 
 # JANEIRO
 
+- title: "Coding Dojô Raspberry cluster + Palestra Internacional sobre SLA agressivos"
+  location: "São Paulo - SP"
+  category: "workshop"
+  date: "10/01"
+  until: "2018-03-10"
+  banner: "mongodb-sp.jpeg"
+  main_url: "https://www.meetup.com/pt-BR/SP-MongoDB"
+  rsvp_url: "https://www.meetup.com/pt-BR/SP-MongoDB/events/246010478/"
+
+
 - title: "Análise de dados utilizando o ambiente R"
   category: "Workshop"
   tags: [hand-rock-o]
@@ -470,7 +480,7 @@
   until: "2018-03-22"
   banner: "cloud-native.png"
   main_url: "https://www.meetup.com/pt-BR/Cloud-Native-Sao-Paulo/"
-  rsvp_url: "https://www.meetup.com/pt-BR/Cloud-Native-Sao-Paulo/events/244455840/
+  rsvp_url: "https://www.meetup.com/pt-BR/Cloud-Native-Sao-Paulo/events/244455840/"
 
 - title: "Programa ELAS"
   location: "São Paulo - SP"
