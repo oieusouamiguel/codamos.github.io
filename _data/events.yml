@@ -84,7 +84,22 @@
   main_url: "https://www.facebook.com/events/1962037264039166/"
   rsvp_url: "https://www.desencaixa.org/events/neuro-shock-workshock-em-neuromarketing"
 
+- title: "Mini curso de Algoritmos"
+  category: "Workshop"
+  tags: [venus, hand-rock-o]
+  location: "On-line"
+  free: true
+  date: "15/01 a 19/01"
+  until: "2018-01-19"
+  banner: "developers-sp.png"
+  twitter: "developerssp"
+  main_url: "https://www.meetup.com/pt-BR/Developers-SP/"
+  rsvp_url: "https://www.meetup.com/pt-BR/Developers-SP/events/246478506/"
+
+
 - title: "Workshop de Angular4 (para 100% iniciantes)"
+  category: "Workshop"
+  tags: [venus, hand-rock-o]
   location: "São Paulo - SP"
   free: true
   date: "18/01"
