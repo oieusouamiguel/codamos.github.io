@@ -58,6 +58,21 @@
 
 # JANEIRO
 
+- title: "Análise de dados utilizando o ambiente R"
+  category: "Workshop"
+  tags: [hand-rock-o]
+  location: "On-line"
+  free: true
+  date: "11/01"
+  until: "2018-01-11"
+  banner: "dotnet-sp.png"
+  twitter: "canaldotnet"
+  youtube: "canaldotnet"
+  facebook: "canaldotnet"
+  main_url: "https://www.meetup.com/pt-BR/dotnet-Sao-Paulo/"
+  rsvp_url: "https://www.meetup.com/pt-BR/dotnet-Sao-Paulo/events/244876446/"
+
+
 - title: "ngGirls Rio"
   tags: [venus]
   location: "Rio de Janeiro - RJ"
