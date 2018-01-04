@@ -228,6 +228,14 @@
   main_url: "http://worksec.congressodeti.com.br/"
   rsvp_url: "http://worksec.congressodeti.com.br/"
 
+- title: "11° Encontro Do Elug-Rj"
+  location: "Rio de Janeiro - RJ"
+  date: "30/01"
+  until: "2018-01-30"
+  banner: "elug-rj.jpg"
+  main_url: "https://www.meetup.com/pt-BR/elixir-rj/"
+  rsvp_url: "https://www.meetup.com/pt-BR/elixir-rj/events/245340182/?eventId=245340182&_cookie-check=EOaU2HfOaEdo-_IA"
+
 - title: "Campus Party - #CPBR11"
   location: "São Paulo - SP"
   date: "30/01 a 04/02"
