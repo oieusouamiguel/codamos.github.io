@@ -177,12 +177,12 @@
   main_url: "http://www.mergo.com.br/"
   rsvp_url: "http://www.mergo.com.br/formacao-ux.html"
 
-  - title: "UX Sorocaba #4 - 2018 Issue 01: Personas"
+- title: "UX Sorocaba #4 - 2018 Issue 01: Personas"
   location: "Sorocaba - SP"
   free: true
   inclusive: true
   date: "20/01"
-  until: "2017-01-20"
+  until: "2018-01-20"
   banner: "ux-sorocaba.png"
   tags: [venus, hand-rock-o]
   facebook: "uxsorocaba"
@@ -243,13 +243,13 @@
   main_url: "http://www.mergo.com.br/"
   rsvp_url: "http://www.mergo.com.br/curso-ux-writing.html"
 
-  - title: "NodeGirls POA: #DragonDreaming"
+- title: "NodeGirls POA: #DragonDreaming"
   location: "Porto Alegre - RS"
   free: true
   inclusive: true
   women: true
   date: "23/01"
-  until: "2017-01-23"
+  until: "2018-01-23"
   banner: "node-girls-poa.png"
   tags: [venus, cc, hand-rock-o]
   hashtag: "nodegirlsbr"
@@ -478,7 +478,6 @@
   category: "workshop"
   date: "22/03"
   until: "2018-03-22"
-  banner: "cloud-native.png"
   main_url: "https://www.meetup.com/pt-BR/Cloud-Native-Sao-Paulo/"
   rsvp_url: "https://www.meetup.com/pt-BR/Cloud-Native-Sao-Paulo/events/244455840/"
 
